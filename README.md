@@ -14,8 +14,8 @@ Get Started
 New Image Project
 
 Standard image model:
-Class 1 (dog)
-Class 2 (cat)
+- Class 1 (dog)
+- Class 2 (cat)
 
 Add Image Samples:
 - ↑Upload ( images +2) 
@@ -35,9 +35,9 @@ Choose an image to test the model
 2. Open Google Colab and paste the code  (from the Colab Code file!) https://colab.research.google.com/drive/
 
 Upload the file:
-keras_model.h5
-labels
-images.5
+- keras_model.h5
+- labels
+- images.5
 
 Choose Run to test and ensure there are no errors
 
