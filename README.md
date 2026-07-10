@@ -1,45 +1,45 @@
-# 🌟 Task Instructions: 
+# 🌟 Task Instructions
 
-1. Train an image recognition model using Teachable Machine by Google Use at least two classes and evaluate the model.  
-2. Download the trained model in TensorFlow → Keras format.  
-3. Write a Python script that loads the model, accepts an input image, and predicts its class.  
+1. Train an image recognition model using **Teachable Machine** by Google. Use at least two classes and evaluate the model.
+2. Download the trained model in **TensorFlow → Keras** format.
+3. Write a Python script that loads the model, accepts an input image, and predicts its class.
 4. Submit the Python script, the exported model files, and a screenshot of the output.
 
-# ✨ The solution :
+---
 
-1. Open the Teachable Machine program and select: https://teachablemachine.withgoogle.com/train/image
+## ✨ Solution
 
-Get Started
+### 1. Train the Model with Teachable Machine
 
-New Image Project
+1. Go to [Teachable Machine – Image Project](https://teachablemachine.withgoogle.com/train/image).
+2. Click **Get Started** → **New Project** → **Standard Image Model**.
+3. Create two classes:
+   - **Class 1:** Dog
+   - **Class 2:** Cat
+4. Upload at least two image samples for each class.
+5. Click **Train Model** and wait for training to finish.
+6. Use the **Preview** panel to test the model:
+   - Upload an image from your files, or drag and drop it directly into the preview window.
 
-Standard image model:
-- Class 1 (dog)
-- Class 2 (cat)
+<img width="958" height="414" alt="Teachable Machine training and preview" src="https://github.com/user-attachments/assets/ec5568c9-5187-4611-b133-9239c6b1019a" />
 
-Add Image Samples:
-- ↑Upload ( images +2) 
+---
 
-Model Trained
+### 2. Test the Model in Google Colab
 
-Preview:
-- Choose images from your files
-or drag & drop here
+1. Open [Google Colab](https://colab.research.google.com/) and paste in the provided code (see `colab_code.ipynb`).
+2. Upload the following exported files:
+   - `keras_model.h5`
+   - `labels.txt`
+   - A sample test image
+3. Click **Run** to execute the script and confirm there are no errors.
 
-Choose an image to test the model
+<img width="958" height="415" alt="Google Colab model test" src="https://github.com/user-attachments/assets/789efcdb-3b15-41fd-802c-572c1f05dcbb" />
 
-<img width="958" height="414" alt="image" src="https://github.com/user-attachments/assets/ec5568c9-5187-4611-b133-9239c6b1019a" />
+---
 
-----------------------------------------------------------------------------
+## 📦 Submission Contents
 
-2. Open Google Colab and paste the code  (from the Colab Code file!) https://colab.research.google.com/drive/
-
-Upload the file:
-- keras_model.h5
-- labels
-- images.5
-
-Choose Run to test and ensure there are no errors
-
-<img width="958" height="415" alt="image" src="https://github.com/user-attachments/assets/789efcdb-3b15-41fd-802c-572c1f05dcbb" />
-
+- Python script (`predict.py`)
+- Exported model files (`keras_model.h5`, `labels.txt`)
+- Screenshot of the output
