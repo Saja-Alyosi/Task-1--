@@ -5,7 +5,6 @@
 3. Write a Python script that loads the model, accepts an input image, and predicts its class.
 4. Submit the Python script, the exported model files, and a screenshot of the output.
 
-
 ## ✨ Solution
 
 ### 1. Train the Model with Teachable Machine
