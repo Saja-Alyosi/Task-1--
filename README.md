@@ -25,7 +25,7 @@
 
 ### 2. Test the Model in Google Colab
 
-1. Open [Google Colab](https://colab.research.google.com/) and paste in the provided code (see `colab_code.ipynb`).
+1. Open [Google Colab](https://colab.research.google.com/) and paste in the provided code (see `Python script`).
 2. Upload the following exported files:
    - `keras_model.h5`
    - `labels.txt`
