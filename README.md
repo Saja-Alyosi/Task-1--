@@ -32,6 +32,6 @@
    - A sample test image
 3. Click **Run** to execute the script and confirm there are no errors.
 
-<img width="958" height="415" alt="Google Colab model test" src="https://github.com/user-attachments/assets/789efcdb-3b15-41fd-802c-572c1f05dcbb" />
+<img width="958" height="345" alt="image" src="https://github.com/user-attachments/assets/18c69624-a7e4-4b58-8524-820a904d6947" />
 
 ---
