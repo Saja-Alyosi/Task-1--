@@ -5,7 +5,6 @@
 3. Write a Python script that loads the model, accepts an input image, and predicts its class.
 4. Submit the Python script, the exported model files, and a screenshot of the output.
 
----
 
 ## ✨ Solution
 
@@ -37,9 +36,3 @@
 <img width="958" height="415" alt="Google Colab model test" src="https://github.com/user-attachments/assets/789efcdb-3b15-41fd-802c-572c1f05dcbb" />
 
 ---
-
-## 📦 Submission Contents
-
-- Python script (`predict.py`)
-- Exported model files (`keras_model.h5`, `labels.txt`)
-- Screenshot of the output
