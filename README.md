@@ -7,7 +7,7 @@
 
 ## ✨ Solution
 
-### 1. Train the Model with Teachable Machine
+### 1. 🛠️ Train the Model with Teachable Machine
 
 1. Go to [Teachable Machine – Image Project](https://teachablemachine.withgoogle.com/train/image).
 2. Click **Get Started** → **New Project** → **Standard Image Model**.
@@ -22,7 +22,7 @@
 <img width="958" height="414" alt="Teachable Machine training and preview" src="https://github.com/user-attachments/assets/ec5568c9-5187-4611-b133-9239c6b1019a" />
 
 ---
-
+1️
 ### 2. 📊 Test the Model in Google Colab
 
 1. Open [Google Colab](https://colab.research.google.com/) and paste in the provided code (see `Python script`).
