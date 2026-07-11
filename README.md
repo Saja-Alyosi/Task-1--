@@ -12,8 +12,8 @@
 1. Go to [Teachable Machine – Image Project](https://teachablemachine.withgoogle.com/train/image).
 2. Click **Get Started** → **New Project** → **Standard Image Model**.
 3. Create two classes:
-   - **Class 1:** Dog
-   - **Class 2:** Cat
+   - 🐶 **Class 1:** Dog
+   - 🐱 **Class 2:** Cat
 4. Upload at least two image samples for each class.
 5. Click **Train Model** and wait for training to finish.
 6. Use the **Preview** panel to test the model:
@@ -23,7 +23,7 @@
 
 ---
 
-### 2. Test the Model in Google Colab
+### 2. 📊 Test the Model in Google Colab
 
 1. Open [Google Colab](https://colab.research.google.com/) and paste in the provided code (see `Python script`).
 2. Upload the following exported files:
