@@ -1,3 +1,5 @@
+# 🧠 Teachable Machine Image Classifier
+
 # 🌟 Task Instructions
 
 1. Train an image recognition model using **Teachable Machine** by Google. Use at least two classes and evaluate the model.
